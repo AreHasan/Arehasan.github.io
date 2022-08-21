@@ -75,3 +75,4 @@ navLogo.addEventListener('click', hideMobileMenu);
 //   $('#close').click(function() {
 //     $('#success').removeClass('expand');
 //   });
+
